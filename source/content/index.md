@@ -1,5 +1,4 @@
 ---
-title: My GitHub Pages Notebook!
+title: Notebook for Pathfinder Elementalist adventure
 ---
 
-Making new changes
