@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Session Notes/Session 1 Kinetic Advantage.md",
+                "file": "Creatures/Chupacabra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 1 Kinetic Advantage"
+              "title": "Chupacabra"
             }
           },
           {
@@ -190,8 +190,8 @@
   },
   "active": "e9d890a5abc641ab",
   "lastOpenFiles": [
-    "Player Characters/Kaya.md",
     "Session Notes/Session 1 Kinetic Advantage.md",
+    "Player Characters/Kaya.md",
     "Player Characters/Ashur.md",
     "index.md",
     "Creatures/Chupacabra.md",
