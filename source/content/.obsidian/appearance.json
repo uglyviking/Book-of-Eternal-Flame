@@ -2,5 +2,6 @@
   "cssTheme": "Border",
   "textFontFamily": "Cascadia Mono PL",
   "monospaceFontFamily": "Cascadia Mono",
-  "accentColor": "#ca3f3f"
+  "accentColor": "#ca3f3f",
+  "nativeMenus": false
 }

@@ -168,20 +168,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Characters/Kaya.md"
+                "file": "Player Characters/Ethan.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Kaya"
+              "title": "Outline of Ethan"
             }
           },
           {
-            "id": "18f0a240e4c4f40e",
+            "id": "95430a2af9c214ed",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -199,10 +199,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c1a3a963a0709e9e",
+  "active": "95430a2af9c214ed",
   "lastOpenFiles": [
     "Player Characters/Mayim.md",
     "Player Characters/Ethan.md",
