@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: `<span><img src="/static/icon.png" style="height: 1.5em; width: auto; vertical-align: middle; margin-right: 0.5em;"/> Book of Eternal Flame</span>`,
+    pageTitle: "Book of Eternal Flame</span>",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
