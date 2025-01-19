@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creatures/Chupacabra.md",
+                "file": "Player Characters/Kaya.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chupacabra"
+              "title": "Kaya"
+            }
+          },
+          {
+            "id": "ca00cb418136e99f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Player Characters/Mayim.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Mayim"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -151,8 +166,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -160,8 +175,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -174,13 +188,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e9d890a5abc641ab",
+  "active": "ca00cb418136e99f",
   "lastOpenFiles": [
     "Player Characters/Kaya.md",
-    "Creatures/Chupacabra.md",
-    "Session Notes/Session 1 Kinetic Advantage.md",
+    "Player Characters/Mayim.md",
     "Player Characters/Ashur.md",
     "index.md",
+    "Session Notes/Session 0 Kinetic Advantage.md",
+    "Creatures/Chupacabra.md",
     "Creatures",
     "Player Characters",
     "Factions",
