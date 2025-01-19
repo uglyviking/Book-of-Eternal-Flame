@@ -8,9 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Book of Eternal Flame</span>",
-    pageTitleSuffix: "",
-    enableSPA: true,
+    pageTitle: '<img src="https://uglyviking.github.io/Book-of-Eternal-Flame/source/quartz/static/icon.png" alt="Book of Eternal Flame" /> Book of Eternal Flame</span>',    enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
