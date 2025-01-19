@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: `![Book of Eternal Flame](https://raw.githubusercontent.com/uglyviking/Book-of-Eternal-Flame/main/source/quartz/static/icon.png) Book of Eternal Flame`,
+    pageTitle: "Book of Eternal Flame",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    baseUrl: "uglyviking.github.io/Book-of-Eternal-Flame",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {
