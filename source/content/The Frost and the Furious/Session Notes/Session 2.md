@@ -7,7 +7,7 @@
 
 We fail in sneaking up on the tapirs but see that they have escaped some snares that may be poisoning. 
 
-[[Ologa]] tames them and then [[Maxim]] removes the snares. We see the snares appear to be old ones that are similar to the [[The Broken Tusk|Broken Tusk]]. We also see some humanoid footprints. We see that these are very fresh. Then two burned orcs show up and challenge us. We deafeat them but as the last the one dies he says with his dying breath that "[[Ivarsa]] will end you traitors"
+[[Ologa]] tames them and then [[Maxim]] removes the snares. We see the snares appear to be old ones that are similar to the [[The Broken Tusk|Broken Tusk]]. We also see some humanoid footprints. We see that these are very fresh. Then two burned orcs show up and challenge us. We defeat them but as the last the one dies he says with his dying breath that "[[Ivarsa]] will end you traitors"
 
 | Loot                       |
 | -------------------------- |
@@ -15,7 +15,6 @@ We fail in sneaking up on the tapirs but see that they have escaped some snares 
 | rope                       |
 | tinder twigs               |
 | sling with 20 bullets each |
-|                            |
 In the future we will have a snare training session with [[Whippa]]. 
 
 # Water retrieval
@@ -27,6 +26,6 @@ When we go there is a cool spear. We do a mini game to challenge him for the spe
 
 The water appears murky and filled with ash. We go up the stream to see if we can find fresh water until we see an island with a stump. 
 
-We hear gurguling that appears to come from the river "are you hear to help me? I feel so bloated"
+We hear gurgling that appears to come from the river "are you hear to help me? I feel so bloated"
 
 [[Gromash]] makes a great perception check and sees [[Kalbo]] who appears who is using magic to make the river talk. 
