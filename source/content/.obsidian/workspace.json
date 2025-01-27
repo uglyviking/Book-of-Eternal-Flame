@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Characters/Kaya.md",
+                "file": "Four Gates/Player Characters/Kaya.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Characters/Mayim.md",
+                "file": "Four Gates/Player Characters/Mayim.md",
                 "mode": "source",
                 "source": false
               },
@@ -41,7 +41,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Player Characters/Ethan.md",
+                "file": "Four Gates/Player Characters/Ethan.md",
                 "mode": "source",
                 "source": false
               },
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Player Characters/Ethan.md"
+                "file": "Four Gates/Player Characters/Ethan.md"
               },
               "icon": "lucide-list",
               "title": "Outline of Ethan"
@@ -200,26 +200,47 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "95430a2af9c214ed",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
-    "Player Characters/Mayim.md",
-    "Player Characters/Ethan.md",
-    "Player Characters/Kaya.md",
-    "Player Characters/Ashur.md",
+    "The Frost and the Furious/Creatures",
+    "The Frost and the Furious/Events/Breaking of tusks.md",
+    "The Frost and the Furious/Events",
+    "The Frost and the Furious/Factions/The Broken Tusk.md",
+    "The Frost and the Furious/Factions",
+    "The Frost and the Furious/Session Notes/Session 2.md",
+    "The Frost and the Furious/Session Notes/Session 1.md",
+    "The Frost and the Furious/Session Notes",
+    "The Frost and the Furious/Places/Rock Loom.md",
+    "The Frost and the Furious/Places",
+    "The Frost and the Furious/NPCs/Selua.md",
+    "The Frost and the Furious/NPCs/Imek.md",
+    "The Frost and the Furious/NPCs/Shaggy.md",
+    "The Frost and the Furious/NPCs/Grandfather Aywaw.md",
+    "The Frost and the Furious/NPCs/Pocano.md",
+    "The Frost and the Furious/NPCs/Whippa.md",
+    "The Frost and the Furious/NPCs",
+    "The Frost and the Furious/Player Characters/Ivarsa.md",
+    "The Frost and the Furious/Player Characters/Gromash.md",
+    "The Frost and the Furious/Player Characters/Ologa.md",
+    "The Frost and the Furious/Player Characters/Maxim.md",
+    "The Frost and the Furious/Player Characters/Huug.md",
+    "The Frost and the Furious/Player Characters/Drogon.md",
+    "The Frost and the Furious/Player Characters",
+    "The Frost and the Furious/F&F Main.md",
+    "The Frost and the Furious",
+    "Four Gates",
+    "Four Gates/Player Characters/Mayim.md",
+    "Four Gates/Player Characters/Ethan.md",
+    "Four Gates/Player Characters/Kaya.md",
+    "Four Gates/Player Characters/Ashur.md",
     "index.md",
-    "Session Notes/Session 0 Kinetic Advantage.md",
-    "Creatures/Chupacabra.md",
-    "Creatures",
-    "Player Characters",
-    "Factions",
-    "Places",
-    "NPCs",
-    "index 1.md",
-    "Session Notes",
-    "category-folder/Some note.md",
-    "category-folder"
+    "Four Gates/Session Notes/Session 0 Kinetic Advantage.md",
+    "Four Gates/Creatures/Chupacabra.md",
+    "Four Gates/Creatures",
+    "Four Gates/Player Characters"
   ]
 }

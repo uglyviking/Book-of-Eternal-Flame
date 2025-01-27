@@ -1,0 +1,1 @@
+Ancient place of animal spirits used for generations to observe the green moon. Since even before the [[Breaking of tusks]]
