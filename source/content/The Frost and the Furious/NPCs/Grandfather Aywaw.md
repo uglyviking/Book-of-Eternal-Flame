@@ -1,1 +1,0 @@
-Oldest elder in the tribe.

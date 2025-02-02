@@ -1,1 +1,1 @@
-12 year old girl, very in touch with animals but to young to go out on hunting missions.
+9 year old girl, very in touch with animals but to young to go out on hunting missions.

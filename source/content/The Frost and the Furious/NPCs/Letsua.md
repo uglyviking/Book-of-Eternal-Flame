@@ -1,0 +1,1 @@
+Mammoth lord being groomed to be a mammoth lord.

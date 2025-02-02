@@ -10,7 +10,7 @@ We enter the woods and find a moose.
 
 We engage the moose and once we get it close to death [[Pocano]] comes in and steals the kill. He begins taking off the horns and only carries though going back and taking nearly all the credit for the kill. The rest of us cart back the kill with [[Huug]] carrying double. 
 
-We are the scouts called [[The Tip of the Spear]]. [[Grandfather Aywaw]] comes and tells us that [[Whippa]] gave a good report. In a few nights the light will mark us as true [[The Broken Tusk|Broken Tusks]] 
+We are the scouts called [[The Tip of the Spear]]. [[Grandfather Eiwa]] comes and tells us that [[Whippa]] gave a good report. In a few nights the light will mark us as true [[The Broken Tusk|Broken Tusks]] 
 
 - We need to secure the [[Rock Loom]] site for the solstice
 - Fill ceremonial vessels with water from the river

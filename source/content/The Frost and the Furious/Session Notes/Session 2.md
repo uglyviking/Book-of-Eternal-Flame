@@ -1,13 +1,14 @@
 2025-01-25
 
 # Resting at the gathering
-[[Grandfather Aywaw]] comes over and asks what mission we may do next. We say we're going to seek out Tapirs. He suggest we talk to [[Imek]] who works with the herding and is very knowledgeable. 
+[[Grandfather Eiwa]] comes over and asks what mission we may do next. We say we're going to seek out Tapirs. He suggest we talk to [[Imek]] who works with the herding and is very knowledgeable. 
 
-[[Imek]] shows up in the morning. She jabbers a lot about the different animals in the herd and their relationships. With the constant chatter it's hard to determine what she is saying. [[Ologa]] and [[Huug]] listen and get the feat tame animal. You must be trained in nature. 
+[[Imek]] shows up in the morning. She jabbers a lot about the different animals in the herd and their relationships. With the constant chatter it's hard to determine what she is saying. [[Aloga]] and [[Huug]] listen and get the feat tame animal. You must be trained in nature. [[Drogon]]
 
 We fail in sneaking up on the tapirs but see that they have escaped some snares that may be poisoning. 
 
-[[Ologa]] tames them and then [[Maxim]] removes the snares. We see the snares appear to be old ones that are similar to the [[The Broken Tusk|Broken Tusk]]. We also see some humanoid footprints. We see that these are very fresh. Then two burned orcs show up and challenge us. We defeat them but as the last the one dies he says with his dying breath that "[[Ivarsa]] will end you traitors"
+[[Aloga]] tames them and then [[Maxim]] removes the snares. We see the snares appear to be old ones that are similar to the [[The Broken Tusk|Broken Tusk]]. We also see some humanoid footprints. We see that these are very fresh. Then two burned orcs show up and challenge us. We defeat them but as the last the one dies he says with his dying breath that 
+>"[[Ivarsa]] will end you traitors"
 
 | Loot                       |
 | -------------------------- |
